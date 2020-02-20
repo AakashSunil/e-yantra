@@ -1,0 +1,727 @@
+[00:14.27.125]  - MobaXterm version: 9.4 Beta 0
+[00:14.27.146]  - Command line: "D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\MobaXterm_Personal_9.4.exe"
+[00:14.27.146]  - Win32 version: 6.3.2.9600.
+[00:14.27.146]  - CurDir: D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\
+[00:14.27.146]  - PersonalDir: C:\Users\aakas\DOCUME~1\
+[00:14.27.146]  - AppDataDir: C:\Users\aakas\AppData\Roaming\
+[00:14.27.146]  - LocalAppDataDir: C:\Users\aakas\AppData\Roaming\
+[00:14.27.162]  - DesktopDir: C:\Users\aakas\Desktop\
+[00:14.27.162]  - MobaProfileDir: C:\Users\aakas\DOCUME~1\
+[00:14.27.162]  - Free space in MobaProfileDir folder: 138620MB
+[00:14.27.162]  - TempDir: C:\Users\aakas\AppData\Local\Temp\
+[00:14.27.162]  - Free space in TempDir folder: 138620MB
+[00:14.27.162]  - Monitor #0: 1366x768
+[00:14.27.162]  - User name: Aakash
+[00:14.27.162]  - Computer name: DESKTOP-6VM25GK
+[00:14.27.162]  - CygUtils: D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\CygUtils.plugin
+[00:14.27.162]  - Uptime: 5 days, 11:14:58
+[00:14.27.162]  - Windows PATH: C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\ProgramData\Oracle\Java\javapath;C:\Perl64\site\bin;C:\Perl64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\opencv\build\x64\vc14\bin;D:\College\Softwares\MATLAB\bin;D:\College\Engineering\Final Year Project\softwares\PuTTY\;C:\Users\aakas\AppData\Local\Microsoft\WindowsApps;
+[00:14.27.177]  
+[00:14.27.177]  BEGIN Form1.FormCreate
+[00:14.27.177]      Detecting installed/portable version
+[00:14.27.177]      --> portable version
+[00:14.27.177]      
+[00:14.27.177]      Detecting IniSettings
+[00:14.27.177]      MobaXterm will take its configuration from file "D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\MobaXterm.ini".
+[00:14.27.177]      (selected ini file seems to be writeable)
+[00:14.27.177]      --> IniSettings= D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\MobaXterm.ini
+[00:14.27.177]      
+[00:14.27.224]      Detecting MobaXVTDir
+[00:14.27.240]      BEGIN IsFolderRW(C:\Users\aakas\AppData\Local\Temp\Mxt94)
+[00:14.27.262]          CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\drives, C:\Users\aakas\AppData\Local\Temp\Mxt94\cygdrive);
+[00:14.27.278]          CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\drives, C:\Users\aakas\AppData\Local\Temp\Mxt94\mnt);
+[00:14.27.278]          CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\drives, C:\Users\aakas\AppData\Local\Temp\Mxt94\media);
+[00:14.27.293]          CreerLienSymbolique(/proc/registry, C:\Users\aakas\AppData\Local\Temp\Mxt94\registry);
+[00:14.27.309]      END IsFolderRW(C:\Users\aakas\AppData\Local\Temp\Mxt94) --> OK
+[00:14.27.309]      --> MobaXVTDir= C:\Users\aakas\AppData\Local\Temp\Mxt94
+[00:14.27.309]      
+[00:14.27.309]      Detecting BinExeDir
+[00:14.27.309]      --> BinExeDir= C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\
+[00:14.27.309]      --> SessionsDir= C:\Users\aakas\AppData\Local\Temp\Mxt94\tmp\sessions
+[00:14.27.309]      
+[00:14.27.309]      Detecting MobaXVTHomeDir
+[00:14.27.309]      --> MobaXVTHomeDir= C:\Users\aakas\AppData\Local\Temp\Mxt94\tmp\home_Aakash
+[00:14.27.309]      
+[00:14.27.309]      Skin detection
+[00:14.27.309]      Skin selected:
+[00:14.27.309]      Set Application Title
+[00:14.27.324]      Skin selected:
+[00:14.27.394]      - Cygwin1.dll not detected in running applications.
+[00:14.27.394]      
+[00:14.27.394]      Process list:  fontdrvhost.exe, igfxCUIService.exe, hpservice.exe, HP3DDGService.exe, RtkAudioService64.exe, armsvc.exe, vmware-usbarbitrator64.exe, mDNSResponder.exe, ss_conn_service.exe, ibtsiva.exe, SynTPEnhService.exe, IpOverUsbSvc.exe, sqlwriter.exe, SecurityHealthService.exe, MsMpEng.exe, WindscribeService.exe, Memory Compression, dasHost.exe, vmnetdhcp.exe, vmnat.exe, vmware-authd.exe, NisSrv.exe, PresentationFontCache.exe, GoogleCrashHandler.exe, GoogleCrashHandler64.exe, SearchIndexer.exe, fontdrvhost.exe, RAVBg64.exe, C:\Program Files\Synaptics\SynTP\SynTPEnh.exe, SynTPHelper.exe, C:\Windows\System32\sihost.exe, C:\Windows\System32\taskhostw.exe, C:\Windows\System32\igfxEM.exe, C:\Windows\System32\igfxHK.exe, C:\Windows\System32\RuntimeBroker.exe, C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\RemindersServer.exe, TabTip.exe, TabTip32.exe, C:\Program Files\Windows Defender\MSASCuiL.exe, C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe, C:\Users\aakas\AppData\Local\Microsoft\OneDrive\OneDrive.exe, C:\Users\aakas\AppData\Roaming\uTorrent\uTorrent.exe, C:\Program Files\HP\HP DeskJet 4530 series\Bin\ScanToPCActivationApp.exe, C:\Program Files (x86)\Samsung\Kies\KiesTrayAgent.exe, C:\Users\aakas\AppData\Roaming\uTorrent\updates\3.5.0_44090\utorrentie.exe, C:\Users\aakas\AppData\Roaming\uTorrent\updates\3.5.0_44090\utorrentie.exe, C:\Program Files\WindowsApps\Microsoft.SkypeApp_11.19.856.0_x64__kzf8qxf38zg5c\SkypeHost.exe, C:\Windows\System32\SettingSyncHost.exe, C:\Windows\System32\ApplicationFrameHost.exe, C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2017.39081.15820.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe, C:\Program Files\Common Files\microsoft shared\ink\InputPersonalization.exe, C:\Windows\System32\dllhost.exe, C:\Windows\System32\SystemSettingsBroker.exe, wmpnetwk.exe, alg.exe, dllhost.exe, C:\Program Files\WindowsApps\Microsoft.WindowsStore_11709.1001.27.0_x64__8wekyb3d8bbwe\WinStore.App.exe, C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe, vncserver.exe, vncagent.exe, D:\College\Engineering\Final Year Project\softwares\vnc\vncserverui.exe, C:\Windows\System32\smartscreen.exe, C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe, C:\Windows\ImmersiveControlPanel\SystemSettings.exe, dllhost.exe, WmiPrvSE.exe, C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe, C:\Windows\System32\browser_broker.exe, C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe, C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe, C:\Windows\System32\InstallAgent.exe, C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe, C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe, C:\Windows\System32\SearchProtocolHost.exe, SearchFilterHost.exe, C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe, SearchProtocolHost.exe, HPCustPartic.exe, HPNETW~1.EXE, audiodg.exe, D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\MobaXterm_Personal_9.4.exe
+[00:14.27.394]      
+[00:14.27.462]      BEGIN AddMobaConsoleFont
+[00:14.27.466]      END AddMobaConsoleFont
+[00:14.27.526]  END Form1.Create
+[00:14.27.527]  
+[00:14.27.527]  CREATION Form4
+[00:14.27.546]  BEGIN WMSize
+[00:14.27.546]  END WMSize
+[00:14.28.025]  BEGIN WMSize
+[00:14.28.025]  END WMSize
+[00:14.28.109]  BEGIN Form4.Create
+[00:14.28.147]      NbPingus = 4
+[00:14.28.147]      BEGIN LoadBookmarksFromIni
+[00:14.28.147]          FindOrCreateTreeFolders() (1)
+[00:14.28.162]          BEGIN RecreerLesMenusDeBookmarks
+[00:14.28.162]              RecreerLesMenusDeBookmarks: FreeerLesBookmarksMenuItems(Form1.Xserver3)
+[00:14.28.162]              RecreerLesMenusDeBookmarks: FreeerLesBookmarksMenuItems(Bookmarks1)
+[00:14.28.178]              sTreeView1.assign(Treesessions)
+[00:14.28.178]              Calcul SheetSessions
+[00:14.28.209]              CreerSessionMenuItems
+[00:14.28.225]              CreerAliases
+[00:14.28.310]              TreeSessions.Expand
+[00:14.28.310]          END RecreerLesMenusDeBookmarks
+[00:14.28.310]      END LoadBookmarksFromIni
+[00:14.28.310]      BEGIN LoadMacrosFromIni
+[00:14.28.310]      END LoadMacrosFromIni
+[00:14.28.325]      Form4Create1
+[00:14.28.325]      Form4Create2
+[00:14.28.362]      BEGIN AdapterFlechesDeLaSidebar
+[00:14.28.362]      END AdapterFlechesDeLaSidebar
+[00:14.28.393]      Form4Create3
+[00:14.28.393]      GetMinWidth = 924
+[00:14.28.409]      GetMinHeight = 529
+[00:14.28.409]      BEGIN WMSize
+[00:14.28.409]      END WMSize
+[00:14.28.425]      BEGIN WMSize
+[00:14.28.441]      END WMSize
+[00:14.28.446]      Form4Create4
+[00:14.28.446]      IsNTFS(C:\) --> NTFS
+[00:14.28.446]      Slash drive is NTFS.
+[00:14.28.446]      Form4Create5
+[00:14.28.446]      Form4Create6
+[00:14.28.446]      Displaysidebarontheleft1Click: FormClick
+[00:14.28.462]      BEGIN AdapterFlechesDeLaSidebar
+[00:14.28.462]      END AdapterFlechesDeLaSidebar
+[00:14.28.462]      Form4Create7
+[00:14.28.462]      Form4Create8
+[00:14.28.462]      Form4Create9
+[00:14.28.478]      ShowButtonsbar1Click: FormClick
+[00:14.28.478]      Form4Create10
+[00:14.28.478]      Form4Create12
+[00:14.28.478]      SmallButtons1Click: FormClick
+[00:14.28.478]      GetMinWidth = 924
+[00:14.28.478]      GetMinHeight = 525
+[00:14.28.478]      Form4Create13
+[00:14.28.478]      Form4Create14
+[00:14.28.478]  END Form4.Create
+[00:14.28.478]  
+[00:14.28.493]  CREATION FormParams
+
+[00:14.32.850]  BEGIN TFormParams.FormCreate
+[00:14.32.881]  END TFormParams.FormCreate
+[00:14.32.881]  
+[00:14.32.881]  CREATION FormSessionEdit
+
+[00:14.37.307]  BEGIN FormSessionEdit.Create
+[00:14.37.554]      BEGIN TFormSessionEdit.FindIP
+[00:14.37.607]      END TFormSessionEdit.FindIP
+[00:14.37.607]      BEGIN SetupEnumAvailableComPorts
+[00:14.37.607]          SetupEnumAvailableComPorts: SetupDiClassGuidsFromName
+[00:14.37.674]          SetupEnumAvailableComPorts: SetupDiGetClassDevs
+[00:14.37.675]          SetupEnumAvailableComPorts: SetupDiEnumDeviceInfo
+[00:14.37.675]          SetupEnumAvailableComPorts: SetupDiDestroyDeviceInfoList
+[00:14.37.675]      END SetupEnumAvailableComPorts
+[00:14.37.707]  END FormSessionEdit.Create
+[00:14.37.707]  
+[00:14.37.707]  CREATION FormIconChooser
+[00:14.37.723]  BEGIN FormIconChooser.Create
+[00:14.37.723]  END FormIconChooser.Create
+[00:14.37.723]  
+[00:14.37.723]  CREATION FormBookFolderEdit
+[00:14.37.754]  BEGIN FormBookFolderEdit.Create
+[00:14.37.754]  END FormBookFolderEdit.Create
+[00:14.37.754]  
+[00:14.37.754]  CREATION FormAbout
+[00:14.38.208]  BEGIN FormAbout.Create
+[00:14.38.208]  END FormAbout.Create
+[00:14.38.208]  
+[00:14.38.208]  CREATION FormTransparente
+[00:14.38.239]  
+[00:14.38.239]  CREATION FormQuickShow
+[00:14.38.254]  BEGIN TFormQuickShow.FormCreate
+[00:14.38.254]  END TFormQuickShow.FormCreate
+[00:14.38.254]  
+[00:14.38.272]  CREATION FormNetscan
+[00:14.38.408]  
+[00:14.38.408]  CREATION FormNetstat
+[00:14.38.408]  BEGIN FormNetstat.Create
+[00:14.38.408]  END FormNetstat.Create
+[00:14.38.408]  
+[00:14.38.424]  CREATION FormPortForwarding
+[00:14.39.220]  BEGIN TFormPortForwarding.FormCreate
+[00:14.39.221]  END TFormPortForwarding.FormCreate
+[00:14.39.222]  
+[00:14.39.223]  CREATION FormPortForwardingEdit
+[00:14.39.306]  
+[00:14.39.307]  CREATION FormDesktopShortcut
+[00:14.39.364]  
+[00:14.39.365]  CREATION FormImportExport
+[00:14.39.388]  
+[00:14.39.389]  CREATION FormHotKeys
+[00:14.39.609]  BEGIN TFormHotKeys.FormCreate
+[00:14.39.613]  END TFormHotKeys.FormCreate
+[00:14.39.614]  
+[00:14.39.614]  CREATION FormKeyboard
+[00:14.39.653]  
+[00:14.39.654]  CREATION FormDownloadBloquant
+[00:14.39.693]  
+[00:14.39.694]  CREATION FormStorePasswords
+[00:14.39.742]  
+[00:14.39.743]  CREATION FormInputDialog
+[00:14.39.769]  
+[00:14.39.770]  CREATION FormRemoteSave
+[00:14.39.790]  
+[00:14.39.790]  CREATION FormSaveTerm
+[00:14.39.818]  
+[00:14.39.818]  CREATION FormChooseComPort
+[00:14.39.877]  
+[00:14.39.879]  CREATION FormServices
+[00:14.40.496]  
+[00:14.40.511]  CREATION FormMsgDialog
+[00:14.40.527]  
+[00:14.40.527]  CREATION FormColorsSelector
+[00:14.40.647]  
+[00:14.40.649]  CREATION FormSyntax
+[00:14.40.750]  
+[00:14.40.750]  CREATION FormChmod
+[00:14.40.796]  
+[00:14.40.796]  CREATION FormCygUtilsMsg
+[00:14.40.812]  
+[00:14.40.812]  CREATION FormMobApt
+[00:14.40.849]  
+[00:14.40.849]  CREATION FormTwitter
+[00:14.40.896]  
+[00:14.40.896]  CREATION FormMasterPassword
+[00:14.40.912]  
+[00:14.40.912]  CREATION FormTermConfirmClose
+[00:14.40.965]  
+[00:14.40.981]  CREATION FormManagePasswords
+[00:14.41.027]  BEGIN TFormManagePasswords.FormCreate
+[00:14.41.027]  END TFormManagePasswords.FormCreate
+[00:14.41.027]  
+[00:14.41.027]  CREATION FormManageMacros
+[00:14.41.445]  
+[00:14.41.448]  CREATION FormEditMacroLine
+[00:14.41.536]  
+[00:14.41.539]  CREATION FormFindInTerm
+[00:14.41.582]  
+[00:14.41.582]  CREATION FormDetachedTab
+[00:14.41.603]  
+[00:14.41.603]  FIN CREATION FORMS
+[00:14.41.603]  
+[00:14.41.603]  BEGIN Form1.Show
+[00:14.41.619]  END Form1.Show
+[00:14.41.866]  
+[00:14.41.866]  Launching Form1.Timer1Timer
+[00:14.41.882]  
+[00:14.41.882]  
+[00:14.41.882]  
+[00:14.41.898]  
+[00:14.41.898]  ================================================================================
+[00:14.41.898]  ~    INI file content (D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\MobaXterm.ini)    ~
+[00:14.41.913]  ================================================================================
+[00:14.41.913]  
+[00:14.41.913]  
+[WindowPos_LAPTOP-I7SRQURF_1_1366]
+CompactMode=0
+MonitorCount=1
+Left=221
+Top=119
+Width=924
+Height=529
+Maximized=0
+SidebarVisible=1
+SidebarWidth=240
+
+[Display]
+SidebarRight=0
+C10Checked=1
+C11Checked=1
+C12Checked=1
+C13Checked=0
+C14Checked=0
+VisibleTabNum=1
+VisibleTabClose=1
+MenuAndButtons=2
+BtnType2=2
+
+[SSH]
+SFTPShowDotFiles=1
+SFTPAsciiMode=0
+
+[Misc]
+LastSession=192.168.10.1|#109#0%192.168.10.1%22%%%-1%-1%%%22%%0%-1%LXDE desktop%%%-1%0%0%0%%1080%%0%0#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0#
+SessionP=132616590878
+
+[Recently started]
+16=
+15=
+14=
+13=
+12=
+11=
+10=
+9=
+8=
+7=
+6=
+5=192.168.10.1 (1)
+4=192.168.10.1 (2)
+3=192.168.10.1 (3)
+2=192.168.10.0
+1=192.168.10.1
+
+[Bookmarks]
+SubRep=
+ImgNum=41
+192.168.10.1=#109#0%192.168.10.1%22%%%-1%-1%%%22%%0%-1%LXDE desktop%%%-1%0%0%0%%1080%%0%0#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0#
+
+[WindowPos_DESKTOP-D8ER19M_1_1366]
+CompactMode=0
+MonitorCount=1
+Left=221
+Top=119
+Width=924
+Height=529
+Maximized=0
+SidebarVisible=1
+SidebarWidth=240
+
+[LastInstanceSessions]
+0=
+1=192.168.10.1
+
+[00:14.41.998]  
+[00:14.41.998]  
+[00:14.41.998]  ================================================================================
+[00:14.41.998]  
+[00:14.41.998]  
+[00:14.41.998]  
+[00:14.41.998]  
+[00:14.41.998]  BEGIN CreerFstab
+[00:14.41.998]      CreerFstab: RootDirectory = C:/Users/aakas/AppData/Local/Temp/Mxt94
+[00:14.41.998]      CreerFstab: HomeDirectory = C:/Users/aakas/AppData/Local/Temp/Mxt94/tmp/HOME_A~1
+[00:14.42.014]  END CreerFstab
+[00:14.42.029]  BEGIN extraireFichiers1
+[00:14.42.029]      BEGIN CreerProfile
+[00:14.42.083]      END CreerProfile
+[00:14.42.083]      BEGIN CreerSshConfig
+[00:14.42.098]      END CreerSshConfig
+[00:14.42.098]      BEGIN CreerBaseProfile
+[00:14.42.583]          NEW PLUGIN: mobase
+[00:14.42.583]          BEGIN ProcessPlugin(mobase)
+[00:14.42.598]          END ProcessPlugin(mobase)
+[00:14.42.598]          NEW PLUGIN: D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\CygUtils.plugin
+[00:14.42.598]          BEGIN ProcessPlugin(D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\CygUtils.plugin)
+[00:14.42.867]              
+[00:14.42.867]              --> CygUtils version: 1.32
+[00:14.42.867]              
+[00:14.42.883]          END ProcessPlugin(D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\CygUtils.plugin)
+[00:14.43.100]      END CreerBaseProfile
+[00:14.43.102]      BEGIN MkGroupFile
+[00:14.43.104]          BEGIN GetLocalGroups
+[00:14.43.159]          END GetLocalGroups
+[00:14.43.190]          MkGroupFile OK
+[00:14.43.190]      END MkGroupFile
+[00:14.43.190]      BEGIN MkPasswdFile
+[00:14.43.190]          Current Domain: DESKTOP-6VM25GK
+[00:14.43.190]          BEGIN Bui_GetWindowsUsersAccount
+[00:14.43.208]          END Bui_GetWindowsUsersAccount
+[00:14.43.228]          MkPasswdFile OK
+[00:14.43.228]      END MkPasswdFile
+[00:14.43.228]      BEGIN CreerNsswitch
+[00:14.43.243]      END CreerNsswitch
+[00:14.43.243]      Request for file extraction: /bin/scrdaemons
+[00:14.43.243]      Extracting "/bin/scrdaemons"
+[00:14.43.275]      File extracted from CygUtils.plugin.
+[00:14.43.275]      CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\scrdaemons, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\init.d\tftp);
+[00:14.43.290]      CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\scrdaemons, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\init.d\ftp);
+[00:14.43.310]      CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\scrdaemons, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\init.d\http);
+[00:14.43.312]      CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\scrdaemons, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\init.d\ssh);
+[00:14.43.328]      CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\scrdaemons, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\init.d\telnet);
+[00:14.43.343]      CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\scrdaemons, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\init.d\nfs);
+[00:14.43.345]      CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\scrdaemons, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\init.d\vnc);
+[00:14.43.361]      Request for file extraction: /bin/cygtermd.exe
+[00:14.43.361]      Extracting "/bin/cygtermd.exe"
+[00:14.43.459]      File extracted from CygUtils.plugin.
+[00:14.43.459]      Request for file extraction: /bin/cygz.dll
+[00:14.43.459]      Extracting "/bin/cygz.dll"
+[00:14.43.544]      Request for file extraction: /bin/cyggcc_s-1.dll
+[00:14.43.544]      Extracting "/bin/cyggcc_s-1.dll"
+[00:14.43.613]      File extracted from CygUtils.plugin.
+[00:14.43.629]      File extracted from CygUtils.plugin.
+[00:14.43.629]      Request for file extraction: /bin/cyggcc_s-1.dll
+[00:14.43.629]      Extracting "/bin/cyggcc_s-1.dll"
+[00:14.43.629]      File extracted from CygUtils.plugin.
+[00:14.43.644]      Request for file extraction: /bin/cygwin-console-helper.exe
+[00:14.43.644]      Extracting "/bin/cygwin-console-helper.exe"
+[00:14.43.729]      File extracted from CygUtils.plugin.
+[00:14.43.745]      Request for file extraction: /bin/ssh.exe
+[00:14.43.745]      Extracting "/bin/ssh.exe"
+[00:14.43.776]      File extracted from CygUtils.plugin.
+[00:14.43.776]      Request for file extraction: /etc/bash.bash_logout
+[00:14.43.791]      Request for file extraction: /etc/profile.d
+[00:14.43.811]      Request for file extraction: /etc/profile.d/*
+[00:14.43.813]      CreerRaccourciVersMobaXterm(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\MobaListPorts, -listports);
+[00:14.43.828]      CreerRaccourciVersMobaXterm(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\MobaPictureViewer, -picview);
+[00:14.43.844]      CreerRaccourciVersMobaXterm(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\MobaCalc, -calc);
+[00:14.43.875]      CreerRaccourciVersMobaXterm(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\MobaTextEditor, -edit);
+[00:14.43.891]      CreerRaccourciVersMobaXterm(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\MobaCompareFiles, -compfiles);
+[00:14.43.913]      CreerRaccourciVersMobaXterm(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\MobaCompareFolders, -compfolders);
+[00:14.43.944]      Request for file extraction: /usr/share/terminfo/78/xterm
+[00:14.43.944]      Extracting "/usr/share/terminfo/78/xterm"
+[00:14.43.976]      File extracted from CygUtils.plugin.
+[00:14.43.976]      Request for file extraction: /usr/share/terminfo/63/cygwin
+[00:14.43.991]      Extracting "/usr/share/terminfo/63/cygwin"
+[00:14.44.013]      File extracted from CygUtils.plugin.
+[00:14.44.029]      Request for file extraction: /etc/bash_completion
+[00:14.44.029]      Extracting "/etc/bash_completion"
+[00:14.44.060]      File extracted from CygUtils.plugin.
+[00:14.44.060]      Request for file extraction: /usr/share/zoneinfo/posixrules
+[00:14.44.076]      Extracting "/usr/share/zoneinfo/posixrules"
+[00:14.44.110]      File extracted successfully.
+[00:14.44.113]      Request for file extraction: /etc/inputrc
+[00:14.44.113]      Extracting "/etc/inputrc"
+[00:14.44.144]      File extracted from CygUtils.plugin.
+[00:14.44.144]  END extraireFichiers1
+[00:14.44.144]  CreerLienSymbolique(/proc/registry, C:\Users\aakas\AppData\Local\Temp\Mxt94\registry);
+[00:14.44.160]  CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\bash.exe, C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\sh);
+[00:14.44.176]  CreerLienSymbolique(C:\WINDOWS\system32\drivers\etc\hosts, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\hosts);
+[00:14.44.191]  CreerLienSymbolique(C:\WINDOWS\system32\drivers\etc\networks, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\networks);
+[00:14.44.214]  CreerLienSymbolique(C:\WINDOWS\system32\drivers\etc\protocol, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\protocol);
+[00:14.44.229]  CreerLienSymbolique(C:\WINDOWS\system32\drivers\etc\services, C:\Users\aakas\AppData\Local\Temp\Mxt94\etc\services);
+[00:14.44.245]  CreerLienSymbolique(C:\Users\aakas\Desktop\, C:\Users\aakas\AppData\Local\Temp\Mxt94\tmp\home_Aakash\Desktop);
+[00:14.44.261]  CreerLienSymbolique(C:\Users\aakas\DOCUME~1\, C:\Users\aakas\AppData\Local\Temp\Mxt94\tmp\home_Aakash\MyDocuments);
+[00:14.44.292]  CreerLienSymbolique(D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\, C:\Users\aakas\AppData\Local\Temp\Mxt94\tmp\home_Aakash\LauncherFolder);
+[00:14.44.329]  CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\drives, C:\Users\aakas\AppData\Local\Temp\Mxt94\cygdrive);
+[00:14.44.329]  CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\drives, C:\Users\aakas\AppData\Local\Temp\Mxt94\mnt);
+[00:14.44.345]  CreerLienSymbolique(C:\Users\aakas\AppData\Local\Temp\Mxt94\drives, C:\Users\aakas\AppData\Local\Temp\Mxt94\media);
+[00:14.44.345]  BEGIN WaitForAllThreads
+[00:14.44.360]  END WaitForAllThreads
+[00:14.44.376]  
+[00:14.44.392]  BEGIN Form4.FormActivate
+[00:14.44.392]      Form4.FormActivate0: First time window activation
+[00:14.44.414]      Form4.FormActivate1
+[00:14.44.414]      Form4.FormActivate2
+[00:14.44.429]      Form4.FormActivate3
+[00:14.44.445]      Form4.FormActivate4
+[00:14.44.445]      Form4.FormActivate5
+[00:14.44.445]      BEGIN LoadParamsFromIni: D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\MobaXterm.ini
+[00:14.44.445]          LoadParamsFromIni: ComboFontName.Font.Name:=MobaFont
+[00:14.44.445]          LoadParamsFromIni: ComboFontName.ItemIndex:=14
+[00:14.44.460]          LoadParamsFromIni: ComboFontName.Font.Charset:=0
+[00:14.44.460]          LoadParamsFromIni1
+[00:14.44.576]          LoadParamsFromIni2
+[00:14.44.629]          LoadParamsFromIni3
+[00:14.44.629]          LoadParamsFromIni4
+[00:14.44.629]          LoadParamsFromIni5
+[00:14.44.629]          LoadParamsFromIni6
+[00:14.44.645]          BEGIN TFormManagePasswords.sRadioButton4Click
+[00:14.44.645]          END TFormManagePasswords.sRadioButton4Click
+[00:14.44.645]          LoadParamsFromIni7
+[00:14.44.660]          LoadParamsFromIni8
+[00:14.44.660]          LoadParamsFromIni9
+[00:14.44.660]          LoadParamsFromIni10
+[00:14.44.729]          LoadParamsFromIni11
+[00:14.44.745]          LoadParamsFromIni12
+[00:14.44.745]          LoadParamsFromIni13
+[00:14.44.745]          LoadParamsFromIni14
+
+[00:14.46.293]          LoadParamsFromIni15
+[00:14.46.293]          LoadParamsFromIni16
+[00:14.46.293]      END LoadParamsFromIni
+[00:14.46.293]      BEGIN TFormPortForwarding.Timer1Timer
+[00:14.46.311]          (SSHTunnel)    Begin TFormPortForwarding.LoadIni
+[00:14.46.314]          (SSHTunnel)    End TFormPortForwarding.LoadIni
+[00:14.46.315]      END TFormPortForwarding.Timer1Timer
+[00:14.46.315]      Form4.FormActivate: OldMaximized:=Form4.WindowState
+[00:14.46.315]      Form4.FormActivate: TermImage.Canvas.Font.Assign(MobaFont)
+[00:14.46.331]      Form4.FormActivate: TermImage.Canvas.Font.Size:=10
+[00:14.46.331]      Form4.FormActivate: TermImage.Canvas.Font.Name:=MobaFont
+[00:14.46.331]      Form4.FormActivate: Starting "GetMinHeight"
+[00:14.46.347]      GetMinHeight = 525
+[00:14.46.347]      Form4.FormActivate: Form4.Constraints.MinHeight:=525
+[00:14.46.347]      GetMinWidth = 924
+[00:14.46.347]      Form4.FormActivate: Form4.Constraints.MinWidth:=924
+[00:14.46.362]      Form4.FormActivate: Form4.Left:=221
+[00:14.46.362]      BEGIN GetNextAvailableX
+[00:14.46.394]      END GetNextAvailableX = 0
+[00:14.46.414]      
+[00:14.46.415]      CurrentX = 0
+[00:14.46.415]      ChDir(Form1.BaseDir): D:\College\Extras\e-yantra\Software\MobaXterm_v9.4\
+[00:14.46.415]      FirstParam:
+[00:14.46.431]      Launching NewTab
+[00:14.46.431]      
+[00:14.46.431]      BEGIN NEWTAB(home, 135, 0)
+[00:14.46.516]          NEWTAB: Application.ProcessMessages
+[00:14.46.516]          NEWTAB: Timer1_Disable
+[00:14.46.615]          
+[00:14.46.615]          BEGIN Form4.FormActivate
+[00:14.46.615]          END Form4.FormActivate
+[00:14.46.615]          
+[00:14.46.647]          BEGIN WMSize
+[00:14.46.647]              BEGIN TFormXterm.FormResize
+[00:14.46.647]                  TFormXterm.FormResize: CentrerBtnReattachTab
+[00:14.46.647]                  TFormXterm.FormResize: SplitModeResize
+[00:14.46.647]                  TFormXterm.FormResize: TabMax<=0. Exiting...
+[00:14.46.647]              END TFormXterm.FormResize
+[00:14.46.647]              BEGIN AdapterFlechesDeLaSidebar
+[00:14.46.662]              END AdapterFlechesDeLaSidebar
+[00:14.46.662]          END WMSize
+[00:14.46.662]          NEWTAB: Verifying if max number of tabs has been reached...
+[00:14.46.662]          NEWTAB: Creating SFTPRecord...
+[00:14.46.694]          NEWTAB: Creating menu items and popup entries for new tab...
+[00:14.46.713]          NEWTAB: Trying to find OldIndice...
+[00:14.46.715]          NEWTAB: Cts1.BeginUpdate;
+[00:14.46.715]          NEWTAB: Creating new tab...
+[00:14.46.715]          NEWTAB:        Tab index: 0
+[00:14.46.715]          NEWTAB:        NumTerm  : 1
+[00:14.46.715]          NEWTAB:        Title    : Home
+[00:14.46.715]          NEWTAB:        Command  : home
+[00:14.46.715]          Cts1ActiveTabChanged: New index = 0
+[00:14.46.715]          NEWTAB: Cts1.EndUpdates
+[00:14.46.847]          NEWTAB: Changing tab index A = 0
+[00:14.46.847]          BEGIN WaitForAllThreads
+[00:14.46.862]          END WaitForAllThreads
+[00:14.46.862]          
+[00:14.46.862]          LancerRxvt(home, Home);
+[00:14.46.862]          
+[00:14.46.878]          SetEnvironmentVariable(LOCALE, en_IN.UTF-8)
+[00:14.46.878]          SetEnvironmentVariable(PATH, C:\Users\aakas\AppData\Local\Temp\Mxt94\bin;C:\WINDOWS\;C:\WINDOWS\system32\)
+[00:14.46.878]          Enabling MOBANOACL
+[00:14.46.878]          
+[00:14.46.878]          ShellExecute: motty.exe
+[00:14.46.878]          
+[00:14.46.878]          CreerSessionMoTTY(1, home, Home)
+[00:14.46.894]          Setting LOCALE=en_IN.UTF-8
+[00:14.46.916]          CreerSessionMoTTY(-1, TCPCapture, TCPCapture)
+[00:14.46.916]          Setting LOCALE=en_IN.UTF-8
+[00:14.47.278]          
+[00:14.47.278]          FindWindow()
+[00:14.47.278]          Moxt2.SetParent
+[00:14.47.595]          NEWTAB: Application.OnMessage:=AppMessage
+[00:14.47.611]          NEWTAB: Changing tab index C = 0
+[00:14.47.612]          NEWTAB: Launching DisplayCurrentTab...
+[00:14.47.614]          BEGIN DisplayCurrentTab
+[00:14.47.615]              DisplayCurrentTab: FormClick
+[00:14.47.616]              (SSH-Browser) DisplayCurrentTab(0): ActiverPanel14
+[00:14.47.616]              (SSH-Browser) BEGIN ActiverPanel14
+[00:14.47.616]              (SSH-Browser) BEGIN DesactiverPanel14
+[00:14.47.616]              (SSH-Browser) END DesactiverPanel14
+[00:14.47.616]              (SSH-Browser) END ActiverPanel14;
+[00:14.47.616]              DisplayCurrentTab: Cts1.BeginUpdate;
+[00:14.47.616]              DisplayCurrentTab: Cts1.EndUpdates
+[00:14.47.616]              DisplayCurrentTab: Show selected tab
+[00:14.47.648]              BEGIN ResizeTerminal
+[00:14.47.648]              END ResizeTerminal
+[00:14.47.648]              DisplayCurrentTab: Hide other tabs
+[00:14.47.664]              DisplayCurrentTab: Adapting buttons enable/disable states
+[00:14.47.664]              DisplayCurrentTab: DeterminerBoutonDetachOuReattach
+[00:14.47.664]              DisplayCurrentTab: DistribuerLeFocus
+[00:14.47.664]              BEGIN WMNewTab: 0
+[00:14.47.664]                  WMNewTab: FormClick
+[00:14.47.664]                  WMNewTab: LooseFocus
+[00:14.47.679]              END WMNewTab: 0
+[00:14.47.679]              BEGIN WMNewTab: 0
+[00:14.47.679]                  WMNewTab: FormClick
+[00:14.47.679]                  WMNewTab: LooseFocus
+[00:14.47.679]              END WMNewTab: 0
+[00:14.47.679]              BEGIN WMNewTab: 0
+[00:14.47.679]                  WMNewTab: FormClick
+[00:14.47.679]                  WMNewTab: LooseFocus
+[00:14.47.679]              END WMNewTab: 0
+[00:14.47.695]              BEGIN WMNewTab: 0
+[00:14.47.695]                  WMNewTab: FormClick
+[00:14.47.695]                  WMNewTab: LooseFocus
+[00:14.47.695]              END WMNewTab: 0
+[00:14.47.713]          END DisplayCurrentTab
+[00:14.47.715]          NEWTAB: NewTab_ReEnable_Timer1
+[00:14.47.716]          NEWTAB: MajVerticalTabs
+[00:14.47.716]          NEWTAB: Cts1.Resize;
+[00:14.47.716]      END NEWTAB(home, 135, 0)
+[00:14.47.716]      
+[00:14.47.716]      
+[00:14.47.716]      Launching bookmarks();
+[00:14.47.732]      Launching sBitBtn7Click(sBitBtn7);
+[00:14.47.732]      
+[00:14.47.732]      BEGIN LancerXWin();
+[00:14.47.732]          BEGIN JvThreadXressources.Execute(nil);
+[00:14.47.732]          END JvThreadXressources.Execute(nil);
+
+[00:14.51.994]          
+[00:14.51.999]          BEGIN NEWTAB(, 97, 0)
+[00:14.52.018]              NEWTAB: Application.ProcessMessages
+[00:14.52.021]              NEWTAB: Timer1_Disable
+[00:14.52.021]              NEWTAB: Verifying if max number of tabs has been reached...
+[00:14.52.039]              NEWTAB: Creating SFTPRecord...
+[00:14.52.051]              NEWTAB: Creating menu items and popup entries for new tab...
+[00:14.52.052]              NEWTAB: Trying to find OldIndice...
+[00:14.52.052]              NEWTAB: Cts1.BeginUpdate;
+[00:14.52.052]              NEWTAB: Creating new tab...
+[00:14.52.052]              NEWTAB:        Tab index: 1
+[00:14.52.052]              NEWTAB:        NumTerm  : 2
+[00:14.52.053]              NEWTAB:        Title    : /home/mobaxterm
+[00:14.52.053]              NEWTAB:        Command  :
+[00:14.52.053]              Cts1ActiveTabChanged: New index = 1
+[00:14.52.053]              NEWTAB: Cts1.EndUpdates
+[00:14.52.067]              NEWTAB: Changing tab index A = 1
+[00:14.52.067]              BEGIN WaitForAllThreads
+
+[00:14.53.869]                  Cts1MouseDown: FormClick
+[00:14.53.999]                  BEGIN TFormXterm.Cts1ButtonCloseTabClick
+[00:14.53.999]                      
+[00:14.53.999]                      BEGIN CloseTab(1)
+[00:14.53.999]                          CloseTab:  Tab is external app
+[00:14.54.000]                          CloseTab:  Delete MobaScript file
+[00:14.54.000]                          CloseTab:  Close TFormDetachedTab
+[00:14.54.000]                          CloseTab: Cts1.BeginUpdate;
+[00:14.54.000]                          CloseTab: Cts1.Tabs.Delete(1);
+[00:14.54.001]                          Cts1ActiveTabChanged: New index = 0
+[00:14.54.001]                          CloseTab: Cts1.Tabs.Delete(1);
+[00:14.54.001]                          (SSH-Browser) TabSFTP[1].Free;
+[00:14.54.001]                          Freeing object TJvThread
+[00:14.54.001]                          Freeing object TElSftpClient
+[00:14.54.001]                          Freeing object TElSSHClient
+[00:14.54.002]                          Freeing object TElSocket
+[00:14.54.002]                          Freeing object TListView
+[00:14.54.004]                          Freeing object TElSSHTunnelList
+[00:14.54.005]                          Freeing object TElSubsystemSSHTunnel
+[00:14.54.005]                          Freeing object TList
+[00:14.54.005]                          Freeing object TTimer
+[00:14.54.005]                          BEGIN DisplayCurrentTab
+[00:14.54.005]                              DisplayCurrentTab: FormClick
+[00:14.54.006]                              (SSH-Browser) DisplayCurrentTab(0): ActiverPanel14
+[00:14.54.006]                              (SSH-Browser) BEGIN ActiverPanel14
+[00:14.54.006]                              (SSH-Browser) BEGIN DesactiverPanel14
+[00:14.54.006]                              (SSH-Browser) END DesactiverPanel14
+[00:14.54.006]                              (SSH-Browser) END ActiverPanel14;
+[00:14.54.006]                              DisplayCurrentTab: Cts1.BeginUpdate;
+[00:14.54.007]                              DisplayCurrentTab: Cts1.EndUpdates
+[00:14.54.008]                              DisplayCurrentTab: Show selected tab
+[00:14.54.013]                              BEGIN ResizeTerminal
+[00:14.54.014]                              END ResizeTerminal
+[00:14.54.014]                              DisplayCurrentTab: Hide other tabs
+[00:14.54.014]                              DisplayCurrentTab: Adapting buttons enable/disable states
+[00:14.54.014]                              DisplayCurrentTab: DeterminerBoutonDetachOuReattach
+[00:14.54.014]                              DisplayCurrentTab: DistribuerLeFocus
+[00:14.54.015]                              BEGIN WMNewTab: 0
+[00:14.54.015]                                  WMNewTab: FormClick
+[00:14.54.016]                                  WMNewTab: LooseFocus
+[00:14.54.016]                              END WMNewTab: 0
+[00:14.54.016]                              BEGIN WMNewTab: 0
+[00:14.54.016]                                  WMNewTab: FormClick
+[00:14.54.016]                                  WMNewTab: LooseFocus
+[00:14.54.017]                              END WMNewTab: 0
+[00:14.54.017]                              BEGIN WMNewTab: 0
+[00:14.54.017]                                  WMNewTab: FormClick
+[00:14.54.017]                                  WMNewTab: LooseFocus
+[00:14.54.017]                              END WMNewTab: 0
+[00:14.54.018]                              BEGIN WMNewTab: 0
+[00:14.54.018]                                  WMNewTab: FormClick
+[00:14.54.018]                                  WMNewTab: LooseFocus
+[00:14.54.018]                              END WMNewTab: 0
+[00:14.54.023]                          END DisplayCurrentTab
+[00:14.54.023]                      END CloseTab(1)
+[00:14.54.023]                      
+[00:14.54.023]                  END TFormXterm.Cts1ButtonCloseTabClick
+
+[00:14.57.572]                  
+[00:14.57.572]                  =======================================================================
+[00:14.57.588]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\lt FAILED
+[00:14.57.588]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\lt". The process cannot access the file because it is being used by another process".
+[00:14.57.588]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.588]                  =======================================================================
+[00:14.57.588]                  
+[00:14.57.619]                  
+[00:14.57.619]                  =======================================================================
+[00:14.57.619]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\pl FAILED
+[00:14.57.619]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\pl". The process cannot access the file because it is being used by another process".
+[00:14.57.619]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.619]                  =======================================================================
+[00:14.57.619]                  
+[00:14.57.635]                  
+[00:14.57.635]                  =======================================================================
+[00:14.57.635]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\ro FAILED
+[00:14.57.635]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\ro". The process cannot access the file because it is being used by another process".
+[00:14.57.635]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.635]                  =======================================================================
+[00:14.57.635]                  
+[00:14.57.654]                  
+[00:14.57.654]                  =======================================================================
+[00:14.57.655]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\se FAILED
+[00:14.57.655]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\se". The process cannot access the file because it is being used by another process".
+[00:14.57.655]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.655]                  =======================================================================
+[00:14.57.656]                  
+[00:14.57.657]                  
+[00:14.57.657]                  =======================================================================
+[00:14.57.657]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\solaris FAILED
+[00:14.57.657]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\solaris". The process cannot access the file because it is being used by another process".
+[00:14.57.673]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.673]                  =======================================================================
+[00:14.57.673]                  
+[00:14.57.704]                  
+[00:14.57.704]                  =======================================================================
+[00:14.57.704]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\ua FAILED
+[00:14.57.704]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\sun_vndr\ua". The process cannot access the file because it is being used by another process".
+[00:14.57.704]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.704]                  =======================================================================
+[00:14.57.704]                  
+[00:14.57.720]                  
+[00:14.57.720]                  =======================================================================
+[00:14.57.720]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\xfree68_vndr\ataritt FAILED
+[00:14.57.720]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\symbols\xfree68_vndr\ataritt". The process cannot access the file because it is being used by another process".
+[00:14.57.720]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.720]                  =======================================================================
+[00:14.57.720]                  
+[00:14.57.735]                  
+[00:14.57.735]                  =======================================================================
+[00:14.57.735]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\types\caps FAILED
+[00:14.57.735]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\types\caps". The process cannot access the file because it is being used by another process".
+[00:14.57.735]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.735]                  =======================================================================
+[00:14.57.735]                  
+[00:14.57.757]                  
+[00:14.57.757]                  =======================================================================
+[00:14.57.757]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\types\extra FAILED
+[00:14.57.757]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\types\extra". The process cannot access the file because it is being used by another process".
+[00:14.57.757]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.757]                  =======================================================================
+[00:14.57.757]                  
+[00:14.57.773]                  
+[00:14.57.773]                  =======================================================================
+[00:14.57.773]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\types\nokia FAILED
+[00:14.57.773]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\types\nokia". The process cannot access the file because it is being used by another process".
+[00:14.57.773]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.773]                  =======================================================================
+[00:14.57.773]                  
+[00:14.57.789]                  
+[00:14.57.789]                  =======================================================================
+[00:14.57.789]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\types\pc FAILED
+[00:14.57.789]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\usr\share\X11\xkb\types\pc". The process cannot access the file because it is being used by another process".
+[00:14.57.789]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.789]                  =======================================================================
+[00:14.57.789]                  
+[00:14.57.804]                  
+[00:14.57.804]                  =======================================================================
+[00:14.57.804]                  Extraction of file C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\XWin_MobaX.exe FAILED
+[00:14.57.804]                  with error message "Cannot create file "C:\Users\aakas\AppData\Local\Temp\Mxt94\bin\XWin_MobaX.exe". The process cannot access the file because it is being used by another process".
+[00:14.57.804]                  Maybe an antivirus software prevented this file from being extracted...
+[00:14.57.804]                  =======================================================================
+[00:14.57.804]                  
+[00:14.57.804]              END WaitForAllThreads
+[00:14.57.804]              
+[00:14.57.804]              LancerRxvt(, /home/mobaxterm);
+[00:14.57.804]              
+[00:14.57.804]              SetEnvironmentVariable(LOCALE, en_IN.UTF-8)
+[00:14.57.804]              SetEnvironmentVariable(PATH, C:\Users\aakas\AppData\Local\Temp\Mxt94\bin;C:\WINDOWS\;C:\WINDOWS\system32\)
+[00:14.57.804]              Enabling MOBANOACL
+[00:14.57.804]              
+[00:14.57.804]              ShellExecute: motty.exe
+[00:14.57.804]              
+[00:14.57.804]              NEWTAB: Cts1.Resize;
+[00:14.57.820]          END NEWTAB(, 97, 0)
+[00:14.57.820]          
+[00:14.57.820]          !!!! EXCEPTION EListError:  List index out of bounds (1)
